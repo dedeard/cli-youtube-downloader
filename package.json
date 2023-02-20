@@ -1,6 +1,6 @@
 {
   "name": "@dedeard/dyp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This command line interface allows you to download YouTube playlists or videos and convert them to mp3 files.",
   "main": "src/index.js",
   "bin": {
