@@ -1,5 +1,5 @@
 {
-  "name": "@dedeardiansya/dyp",
+  "name": "@dedeard/dyp",
   "version": "1.0.1",
   "description": "This command line interface allows you to download YouTube playlists or videos and convert them to mp3 files.",
   "main": "src/index.js",
@@ -14,7 +14,10 @@
   "private": false,
   "keywords": [
     "cli",
-    "youtube-mp3"
+    "cli-youtube-downloader",
+    "youtube-mp3",
+    "youtube-downloader",
+    "ytdl"
   ],
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
