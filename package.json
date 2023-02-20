@@ -1,7 +1,7 @@
 {
   "name": "@dedeardiansya/dyp",
-  "version": "1.0.0",
-  "description": "CLI for download youtube video and convert it to mp3 file.",
+  "version": "1.0.1",
+  "description": "This command line interface allows you to download YouTube playlists or videos and convert them to mp3 files.",
   "main": "src/index.js",
   "bin": {
     "dyp": "bin/dyp"
