@@ -4,9 +4,8 @@
   "description": "download youtubu video and convert to mp3.",
   "main": "src/index.js",
   "bin": {
-   "@dedeardiansya/dyp": "bin/dyp",
-   "dyp": "bin/dyp"
- },
+    "dyp": "bin/dyp"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -14,9 +13,9 @@
   "license": "MIT",
   "private": false,
   "keywords": [
-   "cli",
-   "youtube-mp3"
- ],
+    "cli",
+    "youtube-mp3"
+  ],
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "ansi-colors": "^4.1.1",
