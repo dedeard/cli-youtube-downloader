@@ -9,7 +9,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "dede ariansya",
+  "repository": "https://github.com/dedeard/cli-youtube-downloader.git",
+  "author": "dede ariansya <me@dedeard.my.id>",
   "license": "MIT",
   "private": false,
   "keywords": [
