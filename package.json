@@ -1,7 +1,7 @@
 {
   "name": "@dedeardiansya/dyp",
   "version": "1.0.0",
-  "description": "download youtubu video and convert to mp3.",
+  "description": "CLI for download youtube video and convert it to mp3 file.",
   "main": "src/index.js",
   "bin": {
     "dyp": "bin/dyp"
@@ -20,13 +20,10 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "ansi-colors": "^4.1.1",
     "cli-progress": "^3.10.0",
-    "esm": "^3.2.25",
     "fluent-ffmpeg": "^2.1.2",
-    "inquirer": "^9.1.4",
-    "os": "^0.1.2",
+    "inquirer": "^8.0.0",
     "progress-stream": "^2.0.0",
     "sanitize-filename": "^1.6.3",
-    "simple-json-db": "^2.0.0",
     "youtube-url": "^0.5.0",
     "ytdl-core": "^4.11.2",
     "ytfps": "^1.0.5"
